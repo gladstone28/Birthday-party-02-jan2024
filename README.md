@@ -16,3 +16,7 @@ index.html is written in HTML. Don’t be afraid! You won’t be asked to write 
 If you get stuck during this project or would like to see an experienced developer work through it, click “Get Unstuck“ to see a project walkthrough video.
 
 
+memory jog:
+/c/Users/glads/Documents/Git_videos_to_keep/Birthday-Party
+
+
